@@ -24,6 +24,15 @@
                 </div>
             </div>
         </div>
-        <div data-comp-id="div.2"></div>
+        <div data-comp-id="div.2">
+            <div data-comp-id="chart_v2.1">
+                <input id="label" ng-model="chart.label" type="hidden">
+                <input id="data" ng-model="chart.data" type="hidden">
+                <input id="type" ng-model="chart.type" type="hidden">
+                <input id="colors" ng-model="chart.colors" type="hidden">
+                <input id="series" ng-model="chart.series" type="hidden">
+                <chart ng-model="chart">CHART</chart>
+            </div>
+        </div>
     </ion-content>
 </ion-view>
