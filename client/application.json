@@ -1,0 +1,8 @@
+{
+  "name": "flexsmartdashboard",
+  "description": "Dashboard application to present status of Machines in S.M.A.R.T. lines running in SMT Manufacture Process in Flex.",
+  "defaultLayout": "phone-portrait",
+  "previewToken": "9a35f0be",
+  "uiCommonVersion": "5.0.3",
+  "creatorId": "gdlrabar"
+}
