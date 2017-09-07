@@ -1,14 +1,8 @@
 {
   "id": "app",
   "name": "flexsmartdashboard",
-  "startScreen": "app.maindashboard",
+  "startScreen": null,
   "screens": [
-    {
-      "id": "maindashboard",
-      "name": "MainDashboard",
-      "sourceAppId": "_blank",
-      "sourceScreenId": "app.blank"
-    },
     {
       "id": "menu",
       "name": "menu",
