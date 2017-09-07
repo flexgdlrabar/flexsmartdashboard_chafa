@@ -1,1 +1,14 @@
-{}
+{
+  "dashboard": {
+    "type": "object",
+    "comment": "Flex SMART Dashboard Information",
+    "properties": {
+      "Site": {
+        "type": "string"
+      },
+      "Building": {
+        "type": "string"
+      }
+    }
+  }
+}
