@@ -4,10 +4,16 @@
     "comment": "Flex SMART Dashboard Information",
     "properties": {
       "Site": {
-        "type": "string"
+        "type": "string",
+        "update": {
+          "type": "none"
+        }
       },
       "Building": {
-        "type": "string"
+        "type": "string",
+        "update": {
+          "type": "none"
+        }
       }
     }
   }

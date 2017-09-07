@@ -19,7 +19,8 @@
       "id": "dashboard",
       "name": "Dashboard",
       "sourceScreenId": "app.blank",
-      "sourceAppId": "_blank"
+      "sourceAppId": "_blank",
+      "model": "dashboard"
     }
   ],
   "sourceAppId": "_blank",

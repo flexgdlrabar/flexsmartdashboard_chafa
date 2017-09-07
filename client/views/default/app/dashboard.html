@@ -13,9 +13,16 @@
                 <div class="col" data-comp-id="column.1"><img data-comp-id="image.1" data-img="" ng-src="images/AppIcon_192.png"
                     style="width: 46px;"></div>
                 <div class="col col-90" data-comp-id="column.2">
-                    <div class=" light" data-comp-id="text.1" style="font-size: 1.2em;">Some text</div>
+                    <div class=" light" data-comp-id="text.1" ng-bind="data.Site"
+                        style="font-size: 1.2em;">Site Name</div>
+                </div>
+            </div>
+            <div class="row" data-comp-id="row.2">
+                <div class="col" data-comp-id="column.3">
+                    <div data-comp-id="text.2" ng-bind="data.Building">Building</div>
                 </div>
             </div>
         </div>
+        <div data-comp-id="div.2"></div>
     </ion-content>
 </ion-view>
