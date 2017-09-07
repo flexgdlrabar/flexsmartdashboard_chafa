@@ -1,6 +1,4 @@
 {
-    "dashboard": {
-        "Site": "Gudalajara",
-        "Building":"Building 04"
-    }
+    "Site": "Gudalajara",
+    "Building":"Building 04"
 }
