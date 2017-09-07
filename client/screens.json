@@ -1,11 +1,11 @@
 {
   "id": "app",
   "name": "flexsmartdashboard",
-  "startScreen": "app.blank",
+  "startScreen": "app.maindashboard",
   "screens": [
     {
-      "id": "blank",
-      "name": "BLANK",
+      "id": "maindashboard",
+      "name": "MainDashboard",
       "sourceAppId": "_blank",
       "sourceScreenId": "app.blank"
     },
