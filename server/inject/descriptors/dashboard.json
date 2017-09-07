@@ -1,0 +1,19 @@
+{
+  "type": "object",
+  "comment": "Flex SMART Dashboard Information",
+  "properties": {
+    "Site": {
+      "type": "string",
+      "update": {
+        "type": "none"
+      }
+    },
+    "Building": {
+      "type": "string",
+      "update": {
+        "type": "none"
+      }
+    }
+  },
+  "connect": []
+}
