@@ -1,6 +1,6 @@
 {
   "id": "app",
-  "name": "flexsmartdashboard",
+  "name": "flexsmartdashboard_chafa",
   "startScreen": "app.dashboard",
   "screens": [
     {
