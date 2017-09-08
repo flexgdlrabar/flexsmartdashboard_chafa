@@ -4,8 +4,7 @@
   "properties": {
     "isDashboard": {
       "type": "identifier",
-      "control": "exists",
-      "selector": "body"
+      "control": "exists"
     }
   },
   "connect": [
