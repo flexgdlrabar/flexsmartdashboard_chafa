@@ -16,7 +16,7 @@
     },
     "isDashboard": {
       "type": "identifier",
-      "control": "property.innerText"
+      "control": "exists"
     }
   },
   "connect": [
