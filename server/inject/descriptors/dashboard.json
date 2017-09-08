@@ -13,7 +13,21 @@
       "update": {
         "type": "none"
       }
+    },
+    "isDashboard": {
+      "type": "identifier",
+      "selector": ".default-theme.des-mat",
+      "control": "property.innerText"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "isDashboard"
+      ],
+      "screens": [
+        "dashboard"
+      ]
+    }
+  ]
 }
